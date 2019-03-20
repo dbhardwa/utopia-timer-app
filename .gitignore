@@ -1,0 +1,6 @@
+# Use 'npm run build' to get production build
+dist/
+
+
+node_modules/
+.DS_store
